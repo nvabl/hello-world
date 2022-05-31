@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 This line is intentionally made for testing.
 
 This line is intentionally made for testing "pull" command.
+
+And we make some changes to the README.md file. Just add a new line.
